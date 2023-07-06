@@ -29,7 +29,7 @@ button = tk.Button(
 
 # Getting the input from the user.
 entry = tk.Entry(
-    foreground = "yellow",
+    foreground = "black",
     background = "white",
     width = 50,
     master = frame
